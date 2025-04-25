@@ -1,8 +1,10 @@
 # ARPS Scalp Strategy
 **Originally created: July 31, 2020**
-*(Note: This script was created in 2020 but is being shared on GitHub now)*
+*(Note: This script was created in 2020 but is being shared on GitHub on April 25, 2025)*
 
-The **ARPS - Advanced Trading Indicator Suite** is a highly sophisticated, feature-rich Pine Script designed to enhance your trading analysis and decision-making process. It combines a wide range of powerful indicators, candlestick pattern detection, and trend-following methodologies into a single tool optimized for scalping strategies. Whether you're a beginner or an advanced trader, this indicator provides actionable insights to refine your strategy in highly dynamic markets.
+---
+
+The **ARPS Scalp Strategy** is a highly sophisticated, feature-rich Pine Script designed to enhance your trading analysis and decision-making process. It combines a wide range of powerful indicators, candlestick pattern detection, and trend-following methodologies into a single tool optimized for scalping strategies. Whether you're a beginner or an advanced trader, this indicator provides actionable insights to refine your strategy in highly dynamic markets.
 
 ---
 
@@ -129,4 +131,4 @@ For any questions, feedback, or bug reporting:
 ---
 
 ## Contributing
-Contributions to the ARPS - Advanced Trading Indicator Suite are welcome. Open an issue or submit a pull request to suggest features or improvements.
+Contributions to the ARPS Scalp Strategy Suite are welcome. Open an issue or submit a pull request to suggest features or improvements.
