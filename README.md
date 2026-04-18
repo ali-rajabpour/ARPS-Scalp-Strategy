@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89f199e4-4cca-4b24-97c2-ef30fd174ecb" 
+       alt="FileFlow"
+       width="60%" />
+</p>
+
+
 # ARPS Scalp Strategy
 **Originally created: July 31, 2020**
 *(Note: This script was created in 2020 but is being shared on GitHub on April 25, 2025)*
